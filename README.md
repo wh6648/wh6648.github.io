@@ -1,1 +1,1 @@
-##Hexo html website
+##利用 Hexo 开发的静态网站
