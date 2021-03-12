@@ -3,13 +3,12 @@ menu:
     Home: /
     # Delete this row if you don't want categories in your header nav bar
     Categories:
-    About: /about/index.html
 
 # Customize
 customize:
     logo:
-        width: 165
-        height: 60
+        width: 1000
+        height: 80
         url: images/logo-header.png
     theme_color: '#006bde'
     highlight: androidstudio
@@ -20,7 +19,7 @@ customize:
         twitter: /
         facebook: /
         stack-overflow: /
-        github: https://github.com/ppoffice/hexo-theme-hueman
+        github: https://wh6648.github.io/
         weibo: /
         rss: /
 
@@ -37,7 +36,7 @@ widgets:
 
 # Search
 search:
-    insight: true # you need to install `hexo-generator-json-content` before using Insight Search
+    insight: false # you need to install `hexo-generator-json-content` before using Insight Search
     swiftype: # enter swiftype install key here
     baidu: false # you need to disable other search engines to use Baidu search, options: true, false
 
