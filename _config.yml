@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: wh6648's test website
-subtitle: 'Anything is possible!'
-description: 'game news Bodybuilding Fat reduction'
+title: the charm of sports games
+subtitle: 'Exercise together, exercise my favorite!'
+description: 'A website about sports, sports, fitness, games, entertainment and news. I hope you like it.'
 keywords:
 author: wh6648
 language: en
@@ -13,7 +13,7 @@ timezone: 'America/New_York'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://www.wh6648.win
+url: http://777sportsgames.live/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
