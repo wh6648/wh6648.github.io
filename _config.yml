@@ -106,3 +106,6 @@ deploy:
   type: git
   repo: git@github.com:wh6648/wh6648.github.io.git
   branch: master
+
+sitemap:
+  path: sitemap.xml
